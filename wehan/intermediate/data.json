@@ -1,1 +1,75 @@
-let 
+// let result =document.getElementById("results");
+let employer=`
+[
+    {
+"Unique ID":"29893944817",
+"First Name":"Patrick",
+"Last Name":"Jonathan",
+"Email address":"blabla@gmail.com",
+"Job Title":"Developer",
+"Salary":2000,
+},{
+"Unique ID":"29893944818",
+"First Name":"Lisa",
+"Last Name":"Simpsons",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944819",
+"First Name":"Bart",
+"Last Name":"Simpsons",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944820",
+"First Name":"Homer",
+"Last Name":"Simpsons",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944821",
+"First Name":"Marge",
+"Last Name":"Simpsons",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944822",
+"First Name":"Tom",
+"Last Name":"Irani",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944823",
+"First Name":"Tom",
+"Last Name":"Hanks",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944824",
+"First Name":"Tom",
+"Last Name":"Cruise",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944825",
+"First Name":"Michael",
+"Last Name":"Jackson",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+},{
+"Unique ID":"29893944825",
+"First Name":"Kylie",
+"Last Name":"Minogue",
+"Email address":"blabla@gmail.com",
+"Job Title":"Actor",
+"Salary":2000,
+}
+]`
